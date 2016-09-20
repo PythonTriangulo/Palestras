@@ -1,13 +1,13 @@
-# Palestras Python Triãngulo
-Contêm os links e palestras proferidas durante a realização dos Meetup's
+# Palestras Python Triângulo
+Contêm os links para as palestras proferidas durante a realização dos Meetup's
 
 
 
-## I Meetup Python Triângulo
+## I Meetup 03/09/2016
 
 [Software Live com Allan Allan Daemon](http://slides.com/allandaemon/freesoftware#/)
 
 
 
-## II Meetup Python Triângulo 24/09/2016
+## II Meetup 24/09/2016
 
