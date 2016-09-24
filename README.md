@@ -11,4 +11,4 @@ Contêm os links para as palestras proferidas durante a realização dos Meetup'
 
 ## II Meetup 24/09/2016
 
-[Django em 50 minutos com George Silva ](http://slides.com/allandaemon/freesoftware#/)
+[Django em 50 minutos com George Silva ](https://pythontriangulo.github.io/palestras/django-50min)
